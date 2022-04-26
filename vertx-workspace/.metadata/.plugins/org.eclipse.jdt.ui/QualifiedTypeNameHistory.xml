@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.vertx.core.Vertx"/>
+    <fullyQualifiedTypeName name="io.vertx.ext.web.RoutingContext"/>
+    <fullyQualifiedTypeName name="io.vertx.core.json.Json"/>
+    <fullyQualifiedTypeName name="io.vertx.core.Future"/>
+    <fullyQualifiedTypeName name="io.vertx.core.http.HttpServerRequest"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
+    <fullyQualifiedTypeName name="io.vertx.core.http.HttpServer"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.spi.LoggerFactory"/>
+    <fullyQualifiedTypeName name="io.vertx.core.impl.logging.Logger"/>
+    <fullyQualifiedTypeName name="io.vertx.core.impl.logging.LoggerFactory"/>
+    <fullyQualifiedTypeName name="io.vertx.core.logging.LoggerFactory"/>
+    <fullyQualifiedTypeName name="io.vertx.core.logging.Logger"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="io.vertx.core.DeploymentOptions"/>
+    <fullyQualifiedTypeName name="starter.RestServiceVerticle"/>
+    <fullyQualifiedTypeName name="io.vertx.ext.web.Router"/>
+    <fullyQualifiedTypeName name="io.vertx.core.json.JsonObject"/>
+    <fullyQualifiedTypeName name="io.vertx.core.AbstractVerticle"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="io.vertx.core.Promise"/>
+    <fullyQualifiedTypeName name="starter.HelloWorldVerticle"/>
+</qualifiedTypeNameHistroy>
